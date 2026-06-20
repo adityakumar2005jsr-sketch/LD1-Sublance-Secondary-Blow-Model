@@ -68,10 +68,6 @@ XGBoost significantly outperformed Random Forest and achieved:
 
 ![Actual vs Predicted](actual_vs_predicted_SB_O2_CONS.png)
 
-## Feature Importance Analysis
-
-![Feature Importance](feature_importance_SB_O2_CONS.png)
-
 - ## Final Results
 
 | Model | MAE | RMSE | R² Score |
